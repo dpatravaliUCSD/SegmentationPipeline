@@ -1,0 +1,166 @@
+2025-03-05 16:25:04,850 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 16:25:04,850 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 16:25:05,003 [INFO] ** TORCH CUDA version installed and working. **
+2025-03-05 16:25:05,003 [INFO] >>>> using GPU (CUDA)
+2025-03-05 16:25:05,054 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 16:25:05,112 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 16:25:05,112 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 16:25:06,622 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 16:25:06,623 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 16:25:06,623 [INFO] ** TORCH CUDA version installed and working. **
+2025-03-05 16:25:06,623 [INFO] >>>> using GPU (CUDA)
+2025-03-05 16:25:06,669 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 16:25:06,729 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 16:25:06,729 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 16:25:06,967 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 16:25:06,967 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 16:25:06,967 [INFO] ** TORCH CUDA version installed and working. **
+2025-03-05 16:25:06,967 [INFO] >>>> using GPU (CUDA)
+2025-03-05 16:25:07,013 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 16:25:07,070 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 16:25:07,070 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 16:25:07,321 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 16:25:07,322 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 16:25:07,322 [INFO] ** TORCH CUDA version installed and working. **
+2025-03-05 16:25:07,322 [INFO] >>>> using GPU (CUDA)
+2025-03-05 16:25:07,367 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 16:25:07,426 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 16:25:07,426 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 16:25:07,700 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 16:25:07,700 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 16:25:07,701 [INFO] ** TORCH CUDA version installed and working. **
+2025-03-05 16:25:07,701 [INFO] >>>> using GPU (CUDA)
+2025-03-05 16:25:07,747 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 16:25:07,804 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 16:25:07,804 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 16:25:08,067 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 16:25:08,067 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 16:25:08,067 [INFO] ** TORCH CUDA version installed and working. **
+2025-03-05 16:25:08,067 [INFO] >>>> using GPU (CUDA)
+2025-03-05 16:25:08,112 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 16:25:08,169 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 16:25:08,169 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 16:25:08,298 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 16:25:08,298 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 16:25:08,299 [INFO] ** TORCH CUDA version installed and working. **
+2025-03-05 16:25:08,299 [INFO] >>>> using GPU (CUDA)
+2025-03-05 16:25:08,345 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 16:25:08,404 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 16:25:08,404 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 16:25:08,618 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 16:25:08,618 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 16:25:08,618 [INFO] ** TORCH CUDA version installed and working. **
+2025-03-05 16:25:08,618 [INFO] >>>> using GPU (CUDA)
+2025-03-05 16:25:08,664 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 16:25:08,722 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 16:25:08,722 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 16:25:08,903 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 16:25:08,903 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 16:25:08,903 [INFO] ** TORCH CUDA version installed and working. **
+2025-03-05 16:25:08,903 [INFO] >>>> using GPU (CUDA)
+2025-03-05 16:25:08,949 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 16:25:09,005 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 16:25:09,006 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 16:25:09,139 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 16:25:09,139 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 16:25:09,140 [INFO] ** TORCH CUDA version installed and working. **
+2025-03-05 16:25:09,140 [INFO] >>>> using GPU (CUDA)
+2025-03-05 16:25:09,185 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 16:25:09,244 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 16:25:09,244 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 16:25:09,491 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 16:25:09,491 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 16:25:09,491 [INFO] ** TORCH CUDA version installed and working. **
+2025-03-05 16:25:09,491 [INFO] >>>> using GPU (CUDA)
+2025-03-05 16:25:09,537 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 16:25:09,593 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 16:25:09,593 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 16:25:09,840 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 16:25:09,840 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 16:25:09,840 [INFO] ** TORCH CUDA version installed and working. **
+2025-03-05 16:25:09,840 [INFO] >>>> using GPU (CUDA)
+2025-03-05 16:25:09,886 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 16:25:09,942 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 16:25:09,942 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 16:25:10,173 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 16:25:10,173 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 16:25:10,173 [INFO] ** TORCH CUDA version installed and working. **
+2025-03-05 16:25:10,173 [INFO] >>>> using GPU (CUDA)
+2025-03-05 16:25:10,218 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 16:25:10,433 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 16:25:10,434 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 16:25:10,735 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 16:25:10,735 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 16:25:10,735 [INFO] ** TORCH CUDA version installed and working. **
+2025-03-05 16:25:10,735 [INFO] >>>> using GPU (CUDA)
+2025-03-05 16:25:10,782 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 16:25:10,838 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 16:25:10,838 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 16:25:11,009 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 16:25:11,009 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 16:25:11,010 [INFO] Neither TORCH CUDA nor MPS version not installed/working.
+2025-03-05 16:25:11,010 [INFO] >>>> using CPU
+2025-03-05 16:25:11,010 [INFO] >>>> using CPU
+2025-03-05 16:25:11,055 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 16:25:11,135 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 16:25:11,135 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)

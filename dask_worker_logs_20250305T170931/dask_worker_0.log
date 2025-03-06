@@ -1,0 +1,2816 @@
+2025-03-05 17:09:37,616 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:09:37,616 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:09:37,617 [INFO] >>>> using CPU
+2025-03-05 17:09:37,617 [INFO] >>>> using CPU
+2025-03-05 17:09:37,676 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:09:37,763 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:09:37,763 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:09:38,992 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:09:38,992 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:09:38,992 [INFO] >>>> using CPU
+2025-03-05 17:09:38,992 [INFO] >>>> using CPU
+2025-03-05 17:09:39,038 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:09:39,129 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:09:39,129 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:09:40,265 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:09:40,265 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:09:40,266 [INFO] >>>> using CPU
+2025-03-05 17:09:40,266 [INFO] >>>> using CPU
+2025-03-05 17:09:40,310 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:09:40,397 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:09:40,398 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:09:41,543 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:09:41,543 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:09:41,544 [INFO] >>>> using CPU
+2025-03-05 17:09:41,544 [INFO] >>>> using CPU
+2025-03-05 17:09:41,587 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:09:41,673 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:09:41,673 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:09:42,830 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:09:42,830 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:09:42,830 [INFO] >>>> using CPU
+2025-03-05 17:09:42,830 [INFO] >>>> using CPU
+2025-03-05 17:09:42,875 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:09:42,961 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:09:42,962 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:09:44,116 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:09:44,116 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:09:44,117 [INFO] >>>> using CPU
+2025-03-05 17:09:44,117 [INFO] >>>> using CPU
+2025-03-05 17:09:44,161 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:09:44,250 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:09:44,250 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:09:45,374 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:09:45,375 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:09:45,375 [INFO] >>>> using CPU
+2025-03-05 17:09:45,375 [INFO] >>>> using CPU
+2025-03-05 17:09:45,419 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:09:45,510 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:09:45,510 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:09:46,653 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:09:46,653 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:09:46,654 [INFO] >>>> using CPU
+2025-03-05 17:09:46,654 [INFO] >>>> using CPU
+2025-03-05 17:09:46,697 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:09:46,786 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:09:46,786 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:09:47,935 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:09:47,935 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:09:47,935 [INFO] >>>> using CPU
+2025-03-05 17:09:47,935 [INFO] >>>> using CPU
+2025-03-05 17:09:47,978 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:09:48,067 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:09:48,067 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:09:49,200 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:09:49,200 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:09:49,201 [INFO] >>>> using CPU
+2025-03-05 17:09:49,201 [INFO] >>>> using CPU
+2025-03-05 17:09:49,244 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:09:49,331 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:09:49,331 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:09:50,452 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:09:50,452 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:09:50,452 [INFO] >>>> using CPU
+2025-03-05 17:09:50,453 [INFO] >>>> using CPU
+2025-03-05 17:09:50,496 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:09:50,583 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:09:50,583 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:09:51,724 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:09:51,724 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:09:51,725 [INFO] >>>> using CPU
+2025-03-05 17:09:51,725 [INFO] >>>> using CPU
+2025-03-05 17:09:51,768 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:09:51,858 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:09:51,858 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:09:53,128 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:09:53,128 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:09:53,128 [INFO] >>>> using CPU
+2025-03-05 17:09:53,128 [INFO] >>>> using CPU
+2025-03-05 17:09:53,172 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:09:53,258 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:09:53,258 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:09:54,412 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:09:54,412 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:09:54,412 [INFO] >>>> using CPU
+2025-03-05 17:09:54,412 [INFO] >>>> using CPU
+2025-03-05 17:09:54,456 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:09:54,542 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:09:54,542 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:09:55,658 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:09:55,659 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:09:55,659 [INFO] >>>> using CPU
+2025-03-05 17:09:55,659 [INFO] >>>> using CPU
+2025-03-05 17:09:55,703 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:09:55,791 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:09:55,791 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:09:56,885 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:09:56,885 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:09:56,886 [INFO] >>>> using CPU
+2025-03-05 17:09:56,886 [INFO] >>>> using CPU
+2025-03-05 17:09:56,929 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:09:57,018 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:09:57,018 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:09:58,075 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:09:58,075 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:09:58,076 [INFO] >>>> using CPU
+2025-03-05 17:09:58,076 [INFO] >>>> using CPU
+2025-03-05 17:09:58,120 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:09:58,208 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:09:58,208 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:09:59,328 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:09:59,328 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:09:59,328 [INFO] >>>> using CPU
+2025-03-05 17:09:59,328 [INFO] >>>> using CPU
+2025-03-05 17:09:59,373 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:09:59,460 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:09:59,460 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:00,645 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:00,645 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:00,645 [INFO] >>>> using CPU
+2025-03-05 17:10:00,645 [INFO] >>>> using CPU
+2025-03-05 17:10:00,689 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:00,773 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:00,773 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:01,975 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:01,975 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:01,975 [INFO] >>>> using CPU
+2025-03-05 17:10:01,976 [INFO] >>>> using CPU
+2025-03-05 17:10:02,019 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:02,101 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:02,101 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:03,237 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:03,237 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:03,237 [INFO] >>>> using CPU
+2025-03-05 17:10:03,237 [INFO] >>>> using CPU
+2025-03-05 17:10:03,281 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:03,370 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:03,370 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:04,481 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:04,481 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:04,481 [INFO] >>>> using CPU
+2025-03-05 17:10:04,481 [INFO] >>>> using CPU
+2025-03-05 17:10:04,524 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:04,614 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:04,614 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:05,736 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:05,736 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:05,736 [INFO] >>>> using CPU
+2025-03-05 17:10:05,736 [INFO] >>>> using CPU
+2025-03-05 17:10:05,780 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:05,869 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:05,870 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:07,050 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:07,050 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:07,051 [INFO] >>>> using CPU
+2025-03-05 17:10:07,051 [INFO] >>>> using CPU
+2025-03-05 17:10:07,095 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:07,182 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:07,182 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:08,325 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:08,325 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:08,325 [INFO] >>>> using CPU
+2025-03-05 17:10:08,325 [INFO] >>>> using CPU
+2025-03-05 17:10:08,369 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:08,458 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:08,458 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:09,612 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:09,612 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:09,612 [INFO] >>>> using CPU
+2025-03-05 17:10:09,612 [INFO] >>>> using CPU
+2025-03-05 17:10:09,656 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:09,744 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:09,744 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:10,922 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:10,922 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:10,922 [INFO] >>>> using CPU
+2025-03-05 17:10:10,922 [INFO] >>>> using CPU
+2025-03-05 17:10:10,966 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:11,167 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:11,168 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:12,346 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:12,346 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:12,347 [INFO] >>>> using CPU
+2025-03-05 17:10:12,347 [INFO] >>>> using CPU
+2025-03-05 17:10:12,390 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:12,475 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:12,475 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:13,670 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:13,671 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:13,671 [INFO] >>>> using CPU
+2025-03-05 17:10:13,671 [INFO] >>>> using CPU
+2025-03-05 17:10:13,714 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:13,804 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:13,804 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:14,999 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:14,999 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:14,999 [INFO] >>>> using CPU
+2025-03-05 17:10:14,999 [INFO] >>>> using CPU
+2025-03-05 17:10:15,043 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:15,130 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:15,131 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:16,293 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:16,293 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:16,293 [INFO] >>>> using CPU
+2025-03-05 17:10:16,293 [INFO] >>>> using CPU
+2025-03-05 17:10:16,337 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:16,426 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:16,426 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:17,625 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:17,625 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:17,625 [INFO] >>>> using CPU
+2025-03-05 17:10:17,625 [INFO] >>>> using CPU
+2025-03-05 17:10:17,671 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:17,761 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:17,761 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:18,902 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:18,902 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:18,902 [INFO] >>>> using CPU
+2025-03-05 17:10:18,902 [INFO] >>>> using CPU
+2025-03-05 17:10:18,945 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:19,036 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:19,036 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:20,185 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:20,186 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:20,186 [INFO] >>>> using CPU
+2025-03-05 17:10:20,186 [INFO] >>>> using CPU
+2025-03-05 17:10:20,231 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:20,317 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:20,317 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:21,478 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:21,478 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:21,478 [INFO] >>>> using CPU
+2025-03-05 17:10:21,478 [INFO] >>>> using CPU
+2025-03-05 17:10:21,522 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:21,607 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:21,607 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:22,774 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:22,774 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:22,774 [INFO] >>>> using CPU
+2025-03-05 17:10:22,774 [INFO] >>>> using CPU
+2025-03-05 17:10:22,818 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:22,909 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:22,909 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:24,016 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:24,016 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:24,016 [INFO] >>>> using CPU
+2025-03-05 17:10:24,016 [INFO] >>>> using CPU
+2025-03-05 17:10:24,060 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:24,149 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:24,149 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:25,306 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:25,306 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:25,306 [INFO] >>>> using CPU
+2025-03-05 17:10:25,306 [INFO] >>>> using CPU
+2025-03-05 17:10:25,350 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:25,438 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:25,438 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:26,571 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:26,571 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:26,572 [INFO] >>>> using CPU
+2025-03-05 17:10:26,572 [INFO] >>>> using CPU
+2025-03-05 17:10:26,614 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:26,702 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:26,702 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:27,869 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:27,869 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:27,870 [INFO] >>>> using CPU
+2025-03-05 17:10:27,870 [INFO] >>>> using CPU
+2025-03-05 17:10:27,913 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:28,000 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:28,000 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:29,119 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:29,120 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:29,120 [INFO] >>>> using CPU
+2025-03-05 17:10:29,120 [INFO] >>>> using CPU
+2025-03-05 17:10:29,163 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:29,254 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:29,254 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:30,416 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:30,416 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:30,416 [INFO] >>>> using CPU
+2025-03-05 17:10:30,416 [INFO] >>>> using CPU
+2025-03-05 17:10:30,459 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:30,664 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:30,664 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:31,842 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:31,842 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:31,842 [INFO] >>>> using CPU
+2025-03-05 17:10:31,842 [INFO] >>>> using CPU
+2025-03-05 17:10:31,886 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:31,975 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:31,975 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:33,167 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:33,167 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:33,167 [INFO] >>>> using CPU
+2025-03-05 17:10:33,167 [INFO] >>>> using CPU
+2025-03-05 17:10:33,211 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:33,296 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:33,296 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:34,495 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:34,495 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:34,496 [INFO] >>>> using CPU
+2025-03-05 17:10:34,496 [INFO] >>>> using CPU
+2025-03-05 17:10:34,540 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:34,624 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:34,624 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:35,915 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:35,915 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:35,915 [INFO] >>>> using CPU
+2025-03-05 17:10:35,915 [INFO] >>>> using CPU
+2025-03-05 17:10:35,957 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:36,039 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:36,039 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:37,214 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:37,215 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:37,215 [INFO] >>>> using CPU
+2025-03-05 17:10:37,215 [INFO] >>>> using CPU
+2025-03-05 17:10:37,258 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:37,347 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:37,347 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:38,527 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:38,527 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:38,527 [INFO] >>>> using CPU
+2025-03-05 17:10:38,527 [INFO] >>>> using CPU
+2025-03-05 17:10:38,571 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:38,658 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:38,658 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:39,757 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:39,757 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:39,757 [INFO] >>>> using CPU
+2025-03-05 17:10:39,757 [INFO] >>>> using CPU
+2025-03-05 17:10:39,801 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:39,889 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:39,889 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:41,042 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:41,042 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:41,043 [INFO] >>>> using CPU
+2025-03-05 17:10:41,043 [INFO] >>>> using CPU
+2025-03-05 17:10:41,086 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:41,175 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:41,175 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:42,361 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:42,361 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:42,362 [INFO] >>>> using CPU
+2025-03-05 17:10:42,362 [INFO] >>>> using CPU
+2025-03-05 17:10:42,405 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:42,490 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:42,490 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:43,684 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:43,685 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:43,685 [INFO] >>>> using CPU
+2025-03-05 17:10:43,685 [INFO] >>>> using CPU
+2025-03-05 17:10:43,728 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:43,816 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:43,816 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:45,067 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:45,067 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:45,067 [INFO] >>>> using CPU
+2025-03-05 17:10:45,067 [INFO] >>>> using CPU
+2025-03-05 17:10:45,112 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:45,200 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:45,200 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:46,341 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:46,341 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:46,341 [INFO] >>>> using CPU
+2025-03-05 17:10:46,341 [INFO] >>>> using CPU
+2025-03-05 17:10:46,384 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:46,469 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:46,470 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:47,641 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:47,641 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:47,641 [INFO] >>>> using CPU
+2025-03-05 17:10:47,642 [INFO] >>>> using CPU
+2025-03-05 17:10:47,684 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:47,770 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:47,770 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:48,958 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:48,958 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:48,959 [INFO] >>>> using CPU
+2025-03-05 17:10:48,959 [INFO] >>>> using CPU
+2025-03-05 17:10:49,002 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:49,086 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:49,086 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:50,243 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:50,243 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:50,243 [INFO] >>>> using CPU
+2025-03-05 17:10:50,243 [INFO] >>>> using CPU
+2025-03-05 17:10:50,286 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:50,376 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:50,377 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:51,702 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:51,702 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:51,702 [INFO] >>>> using CPU
+2025-03-05 17:10:51,702 [INFO] >>>> using CPU
+2025-03-05 17:10:51,746 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:51,835 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:51,836 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:53,024 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:53,024 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:53,024 [INFO] >>>> using CPU
+2025-03-05 17:10:53,025 [INFO] >>>> using CPU
+2025-03-05 17:10:53,068 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:53,153 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:53,153 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:54,367 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:54,367 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:54,367 [INFO] >>>> using CPU
+2025-03-05 17:10:54,367 [INFO] >>>> using CPU
+2025-03-05 17:10:54,411 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:54,496 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:54,496 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:55,695 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:55,696 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:55,696 [INFO] >>>> using CPU
+2025-03-05 17:10:55,696 [INFO] >>>> using CPU
+2025-03-05 17:10:55,739 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:55,828 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:55,828 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:57,044 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:57,044 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:57,045 [INFO] >>>> using CPU
+2025-03-05 17:10:57,045 [INFO] >>>> using CPU
+2025-03-05 17:10:57,088 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:57,176 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:57,176 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:58,378 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:58,379 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:58,379 [INFO] >>>> using CPU
+2025-03-05 17:10:58,379 [INFO] >>>> using CPU
+2025-03-05 17:10:58,423 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:58,512 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:58,512 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:10:59,711 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:10:59,711 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:10:59,711 [INFO] >>>> using CPU
+2025-03-05 17:10:59,711 [INFO] >>>> using CPU
+2025-03-05 17:10:59,754 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:10:59,844 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:10:59,844 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:00,982 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:00,982 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:00,982 [INFO] >>>> using CPU
+2025-03-05 17:11:00,982 [INFO] >>>> using CPU
+2025-03-05 17:11:01,025 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:01,113 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:01,113 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:02,291 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:02,291 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:02,291 [INFO] >>>> using CPU
+2025-03-05 17:11:02,291 [INFO] >>>> using CPU
+2025-03-05 17:11:02,334 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:02,422 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:02,422 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:03,618 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:03,619 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:03,619 [INFO] >>>> using CPU
+2025-03-05 17:11:03,619 [INFO] >>>> using CPU
+2025-03-05 17:11:03,662 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:03,748 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:03,748 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:04,954 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:04,954 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:04,955 [INFO] >>>> using CPU
+2025-03-05 17:11:04,955 [INFO] >>>> using CPU
+2025-03-05 17:11:04,998 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:05,086 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:05,086 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:06,282 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:06,282 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:06,282 [INFO] >>>> using CPU
+2025-03-05 17:11:06,282 [INFO] >>>> using CPU
+2025-03-05 17:11:06,325 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:06,413 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:06,413 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:07,670 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:07,670 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:07,670 [INFO] >>>> using CPU
+2025-03-05 17:11:07,670 [INFO] >>>> using CPU
+2025-03-05 17:11:07,713 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:07,803 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:07,803 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:09,108 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:09,108 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:09,108 [INFO] >>>> using CPU
+2025-03-05 17:11:09,108 [INFO] >>>> using CPU
+2025-03-05 17:11:09,152 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:09,239 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:09,239 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:10,550 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:10,550 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:10,550 [INFO] >>>> using CPU
+2025-03-05 17:11:10,550 [INFO] >>>> using CPU
+2025-03-05 17:11:10,593 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:10,682 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:10,683 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:11,831 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:11,831 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:11,831 [INFO] >>>> using CPU
+2025-03-05 17:11:11,831 [INFO] >>>> using CPU
+2025-03-05 17:11:11,874 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:12,097 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:12,097 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:13,385 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:13,385 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:13,385 [INFO] >>>> using CPU
+2025-03-05 17:11:13,385 [INFO] >>>> using CPU
+2025-03-05 17:11:13,428 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:13,516 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:13,516 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:14,809 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:14,809 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:14,809 [INFO] >>>> using CPU
+2025-03-05 17:11:14,809 [INFO] >>>> using CPU
+2025-03-05 17:11:14,853 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:14,943 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:14,943 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:16,186 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:16,186 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:16,186 [INFO] >>>> using CPU
+2025-03-05 17:11:16,186 [INFO] >>>> using CPU
+2025-03-05 17:11:16,231 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:16,320 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:16,320 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:17,589 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:17,589 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:17,589 [INFO] >>>> using CPU
+2025-03-05 17:11:17,589 [INFO] >>>> using CPU
+2025-03-05 17:11:17,634 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:17,726 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:17,726 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:18,950 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:18,950 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:18,951 [INFO] >>>> using CPU
+2025-03-05 17:11:18,951 [INFO] >>>> using CPU
+2025-03-05 17:11:18,994 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:19,080 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:19,080 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:20,286 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:20,287 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:20,287 [INFO] >>>> using CPU
+2025-03-05 17:11:20,287 [INFO] >>>> using CPU
+2025-03-05 17:11:20,332 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:20,420 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:20,420 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:21,601 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:21,601 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:21,601 [INFO] >>>> using CPU
+2025-03-05 17:11:21,601 [INFO] >>>> using CPU
+2025-03-05 17:11:21,644 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:21,733 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:21,733 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:23,225 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:23,225 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:23,225 [INFO] >>>> using CPU
+2025-03-05 17:11:23,225 [INFO] >>>> using CPU
+2025-03-05 17:11:23,279 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:23,385 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:23,385 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:24,671 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:24,671 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:24,672 [INFO] >>>> using CPU
+2025-03-05 17:11:24,672 [INFO] >>>> using CPU
+2025-03-05 17:11:24,716 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:24,805 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:24,805 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:26,044 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:26,045 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:26,045 [INFO] >>>> using CPU
+2025-03-05 17:11:26,045 [INFO] >>>> using CPU
+2025-03-05 17:11:26,088 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:26,174 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:26,174 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:27,388 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:27,388 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:27,389 [INFO] >>>> using CPU
+2025-03-05 17:11:27,389 [INFO] >>>> using CPU
+2025-03-05 17:11:27,432 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:27,518 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:27,518 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:28,719 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:28,719 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:28,719 [INFO] >>>> using CPU
+2025-03-05 17:11:28,719 [INFO] >>>> using CPU
+2025-03-05 17:11:28,763 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:28,853 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:28,853 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:30,067 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:30,067 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:30,067 [INFO] >>>> using CPU
+2025-03-05 17:11:30,067 [INFO] >>>> using CPU
+2025-03-05 17:11:30,111 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:30,198 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:30,198 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:31,377 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:31,377 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:31,377 [INFO] >>>> using CPU
+2025-03-05 17:11:31,377 [INFO] >>>> using CPU
+2025-03-05 17:11:31,421 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:31,508 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:31,508 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:32,714 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:32,714 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:32,715 [INFO] >>>> using CPU
+2025-03-05 17:11:32,715 [INFO] >>>> using CPU
+2025-03-05 17:11:32,757 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:32,844 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:32,844 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:34,069 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:34,069 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:34,069 [INFO] >>>> using CPU
+2025-03-05 17:11:34,069 [INFO] >>>> using CPU
+2025-03-05 17:11:34,112 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:34,332 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:34,332 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:35,554 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:35,554 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:35,554 [INFO] >>>> using CPU
+2025-03-05 17:11:35,554 [INFO] >>>> using CPU
+2025-03-05 17:11:35,598 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:35,683 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:35,683 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:36,896 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:36,896 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:36,897 [INFO] >>>> using CPU
+2025-03-05 17:11:36,897 [INFO] >>>> using CPU
+2025-03-05 17:11:36,940 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:37,026 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:37,026 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:38,238 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:38,238 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:38,238 [INFO] >>>> using CPU
+2025-03-05 17:11:38,238 [INFO] >>>> using CPU
+2025-03-05 17:11:38,282 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:38,368 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:38,368 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:39,568 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:39,569 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:39,569 [INFO] >>>> using CPU
+2025-03-05 17:11:39,569 [INFO] >>>> using CPU
+2025-03-05 17:11:39,613 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:39,698 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:39,698 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:40,918 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:40,918 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:40,918 [INFO] >>>> using CPU
+2025-03-05 17:11:40,918 [INFO] >>>> using CPU
+2025-03-05 17:11:40,962 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:41,046 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:41,046 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:42,247 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:42,247 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:42,247 [INFO] >>>> using CPU
+2025-03-05 17:11:42,247 [INFO] >>>> using CPU
+2025-03-05 17:11:42,291 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:42,379 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:42,379 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:43,583 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:43,584 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:43,584 [INFO] >>>> using CPU
+2025-03-05 17:11:43,584 [INFO] >>>> using CPU
+2025-03-05 17:11:43,627 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:43,712 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:43,712 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:44,875 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:44,875 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:44,875 [INFO] >>>> using CPU
+2025-03-05 17:11:44,875 [INFO] >>>> using CPU
+2025-03-05 17:11:44,919 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:45,008 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:45,008 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:46,179 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:46,179 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:46,179 [INFO] >>>> using CPU
+2025-03-05 17:11:46,179 [INFO] >>>> using CPU
+2025-03-05 17:11:46,223 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:46,311 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:46,311 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:47,512 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:47,512 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:47,512 [INFO] >>>> using CPU
+2025-03-05 17:11:47,512 [INFO] >>>> using CPU
+2025-03-05 17:11:47,556 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:47,640 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:47,640 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:48,822 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:48,822 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:48,822 [INFO] >>>> using CPU
+2025-03-05 17:11:48,822 [INFO] >>>> using CPU
+2025-03-05 17:11:48,866 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:48,955 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:48,955 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:50,146 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:50,146 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:50,147 [INFO] >>>> using CPU
+2025-03-05 17:11:50,147 [INFO] >>>> using CPU
+2025-03-05 17:11:50,191 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:50,277 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:50,277 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:51,482 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:51,482 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:51,482 [INFO] >>>> using CPU
+2025-03-05 17:11:51,482 [INFO] >>>> using CPU
+2025-03-05 17:11:51,525 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:51,610 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:51,610 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:52,771 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:52,771 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:52,771 [INFO] >>>> using CPU
+2025-03-05 17:11:52,771 [INFO] >>>> using CPU
+2025-03-05 17:11:52,815 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:52,905 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:52,905 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:54,093 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:54,093 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:54,093 [INFO] >>>> using CPU
+2025-03-05 17:11:54,093 [INFO] >>>> using CPU
+2025-03-05 17:11:54,137 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:54,225 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:54,225 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:55,453 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:55,453 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:55,454 [INFO] >>>> using CPU
+2025-03-05 17:11:55,454 [INFO] >>>> using CPU
+2025-03-05 17:11:55,497 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:55,580 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:55,580 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:57,042 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:57,042 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:57,042 [INFO] >>>> using CPU
+2025-03-05 17:11:57,042 [INFO] >>>> using CPU
+2025-03-05 17:11:57,084 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:57,165 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:57,165 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:58,497 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:58,497 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:58,497 [INFO] >>>> using CPU
+2025-03-05 17:11:58,497 [INFO] >>>> using CPU
+2025-03-05 17:11:58,538 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:11:58,620 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:11:58,621 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:11:59,927 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:11:59,927 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:11:59,927 [INFO] >>>> using CPU
+2025-03-05 17:11:59,927 [INFO] >>>> using CPU
+2025-03-05 17:11:59,969 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:00,050 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:00,050 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:01,357 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:01,357 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:01,358 [INFO] >>>> using CPU
+2025-03-05 17:12:01,358 [INFO] >>>> using CPU
+2025-03-05 17:12:01,402 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:01,488 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:01,488 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:02,685 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:02,685 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:02,686 [INFO] >>>> using CPU
+2025-03-05 17:12:02,686 [INFO] >>>> using CPU
+2025-03-05 17:12:02,729 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:02,817 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:02,817 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:03,983 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:03,983 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:03,984 [INFO] >>>> using CPU
+2025-03-05 17:12:03,984 [INFO] >>>> using CPU
+2025-03-05 17:12:04,027 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:04,116 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:04,116 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:05,299 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:05,299 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:05,299 [INFO] >>>> using CPU
+2025-03-05 17:12:05,299 [INFO] >>>> using CPU
+2025-03-05 17:12:05,343 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:05,429 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:05,429 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:06,571 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:06,571 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:06,571 [INFO] >>>> using CPU
+2025-03-05 17:12:06,571 [INFO] >>>> using CPU
+2025-03-05 17:12:06,614 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:06,703 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:06,704 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:07,910 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:07,910 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:07,910 [INFO] >>>> using CPU
+2025-03-05 17:12:07,910 [INFO] >>>> using CPU
+2025-03-05 17:12:07,954 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:08,040 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:08,041 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:09,239 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:09,239 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:09,239 [INFO] >>>> using CPU
+2025-03-05 17:12:09,239 [INFO] >>>> using CPU
+2025-03-05 17:12:09,282 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:09,370 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:09,371 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:10,561 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:10,561 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:10,561 [INFO] >>>> using CPU
+2025-03-05 17:12:10,561 [INFO] >>>> using CPU
+2025-03-05 17:12:10,605 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:10,692 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:10,692 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:11,857 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:11,857 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:11,857 [INFO] >>>> using CPU
+2025-03-05 17:12:11,857 [INFO] >>>> using CPU
+2025-03-05 17:12:11,901 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:11,990 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:11,990 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:13,165 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:13,165 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:13,165 [INFO] >>>> using CPU
+2025-03-05 17:12:13,165 [INFO] >>>> using CPU
+2025-03-05 17:12:13,209 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:13,299 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:13,300 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:14,478 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:14,478 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:14,478 [INFO] >>>> using CPU
+2025-03-05 17:12:14,478 [INFO] >>>> using CPU
+2025-03-05 17:12:14,522 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:14,613 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:14,613 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:15,807 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:15,808 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:15,808 [INFO] >>>> using CPU
+2025-03-05 17:12:15,808 [INFO] >>>> using CPU
+2025-03-05 17:12:15,855 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:15,943 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:15,944 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:17,105 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:17,105 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:17,106 [INFO] >>>> using CPU
+2025-03-05 17:12:17,106 [INFO] >>>> using CPU
+2025-03-05 17:12:17,149 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:17,234 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:17,234 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:18,425 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:18,425 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:18,426 [INFO] >>>> using CPU
+2025-03-05 17:12:18,426 [INFO] >>>> using CPU
+2025-03-05 17:12:18,611 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:18,693 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:18,693 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:19,873 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:19,873 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:19,873 [INFO] >>>> using CPU
+2025-03-05 17:12:19,873 [INFO] >>>> using CPU
+2025-03-05 17:12:19,916 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:20,001 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:20,001 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:21,204 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:21,204 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:21,205 [INFO] >>>> using CPU
+2025-03-05 17:12:21,205 [INFO] >>>> using CPU
+2025-03-05 17:12:21,248 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:21,332 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:21,332 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:22,542 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:22,542 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:22,542 [INFO] >>>> using CPU
+2025-03-05 17:12:22,542 [INFO] >>>> using CPU
+2025-03-05 17:12:22,586 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:22,671 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:22,671 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:23,863 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:23,863 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:23,863 [INFO] >>>> using CPU
+2025-03-05 17:12:23,863 [INFO] >>>> using CPU
+2025-03-05 17:12:23,907 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:23,994 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:23,994 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:25,150 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:25,150 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:25,150 [INFO] >>>> using CPU
+2025-03-05 17:12:25,150 [INFO] >>>> using CPU
+2025-03-05 17:12:25,193 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:25,281 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:25,281 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:26,431 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:26,431 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:26,432 [INFO] >>>> using CPU
+2025-03-05 17:12:26,432 [INFO] >>>> using CPU
+2025-03-05 17:12:26,475 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:26,563 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:26,563 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:27,659 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:27,659 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:27,659 [INFO] >>>> using CPU
+2025-03-05 17:12:27,659 [INFO] >>>> using CPU
+2025-03-05 17:12:27,703 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:27,791 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:27,791 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:28,996 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:28,996 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:28,996 [INFO] >>>> using CPU
+2025-03-05 17:12:28,996 [INFO] >>>> using CPU
+2025-03-05 17:12:29,039 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:29,125 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:29,125 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:30,300 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:30,300 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:30,300 [INFO] >>>> using CPU
+2025-03-05 17:12:30,300 [INFO] >>>> using CPU
+2025-03-05 17:12:30,344 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:30,430 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:30,430 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:31,628 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:31,628 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:31,628 [INFO] >>>> using CPU
+2025-03-05 17:12:31,628 [INFO] >>>> using CPU
+2025-03-05 17:12:31,672 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:31,758 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:31,758 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:32,961 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:32,962 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:32,962 [INFO] >>>> using CPU
+2025-03-05 17:12:32,962 [INFO] >>>> using CPU
+2025-03-05 17:12:33,005 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:33,089 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:33,089 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:34,305 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:34,305 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:34,305 [INFO] >>>> using CPU
+2025-03-05 17:12:34,305 [INFO] >>>> using CPU
+2025-03-05 17:12:34,349 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:34,436 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:34,436 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:35,612 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:35,612 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:35,613 [INFO] >>>> using CPU
+2025-03-05 17:12:35,613 [INFO] >>>> using CPU
+2025-03-05 17:12:35,656 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:35,744 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:35,744 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:36,946 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:36,946 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:36,946 [INFO] >>>> using CPU
+2025-03-05 17:12:36,946 [INFO] >>>> using CPU
+2025-03-05 17:12:36,990 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:37,075 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:37,075 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:38,248 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:38,249 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:38,249 [INFO] >>>> using CPU
+2025-03-05 17:12:38,249 [INFO] >>>> using CPU
+2025-03-05 17:12:38,293 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:38,380 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:38,380 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:39,545 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:39,545 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:39,545 [INFO] >>>> using CPU
+2025-03-05 17:12:39,545 [INFO] >>>> using CPU
+2025-03-05 17:12:39,588 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:39,676 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:39,676 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:40,994 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:40,994 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:40,994 [INFO] >>>> using CPU
+2025-03-05 17:12:40,994 [INFO] >>>> using CPU
+2025-03-05 17:12:41,037 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:41,124 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:41,124 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:42,276 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:42,276 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:42,276 [INFO] >>>> using CPU
+2025-03-05 17:12:42,276 [INFO] >>>> using CPU
+2025-03-05 17:12:42,319 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:42,407 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:42,407 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:43,596 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:43,596 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:43,596 [INFO] >>>> using CPU
+2025-03-05 17:12:43,596 [INFO] >>>> using CPU
+2025-03-05 17:12:43,639 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:43,725 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:43,725 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:44,909 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:44,909 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:44,909 [INFO] >>>> using CPU
+2025-03-05 17:12:44,909 [INFO] >>>> using CPU
+2025-03-05 17:12:44,952 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:45,039 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:45,039 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:46,213 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:46,213 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:46,213 [INFO] >>>> using CPU
+2025-03-05 17:12:46,213 [INFO] >>>> using CPU
+2025-03-05 17:12:46,256 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:46,343 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:46,343 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:47,496 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:47,496 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:47,496 [INFO] >>>> using CPU
+2025-03-05 17:12:47,496 [INFO] >>>> using CPU
+2025-03-05 17:12:47,540 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:47,627 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:47,627 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:48,771 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:48,771 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:48,771 [INFO] >>>> using CPU
+2025-03-05 17:12:48,771 [INFO] >>>> using CPU
+2025-03-05 17:12:48,815 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:48,903 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:48,903 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:50,091 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:50,091 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:50,092 [INFO] >>>> using CPU
+2025-03-05 17:12:50,092 [INFO] >>>> using CPU
+2025-03-05 17:12:50,135 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:50,222 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:50,222 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:51,438 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:51,438 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:51,438 [INFO] >>>> using CPU
+2025-03-05 17:12:51,438 [INFO] >>>> using CPU
+2025-03-05 17:12:51,481 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:51,564 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:51,564 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:52,752 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:52,752 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:52,752 [INFO] >>>> using CPU
+2025-03-05 17:12:52,752 [INFO] >>>> using CPU
+2025-03-05 17:12:52,796 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:52,882 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:52,882 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:54,068 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:54,068 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:54,068 [INFO] >>>> using CPU
+2025-03-05 17:12:54,068 [INFO] >>>> using CPU
+2025-03-05 17:12:54,112 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:54,197 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:54,197 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:55,395 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:55,395 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:55,395 [INFO] >>>> using CPU
+2025-03-05 17:12:55,395 [INFO] >>>> using CPU
+2025-03-05 17:12:55,438 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:55,523 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:55,523 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:56,733 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:56,733 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:56,733 [INFO] >>>> using CPU
+2025-03-05 17:12:56,733 [INFO] >>>> using CPU
+2025-03-05 17:12:56,776 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:56,861 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:56,861 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:58,052 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:58,052 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:58,052 [INFO] >>>> using CPU
+2025-03-05 17:12:58,052 [INFO] >>>> using CPU
+2025-03-05 17:12:58,095 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:58,182 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:58,182 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:12:59,384 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:12:59,384 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:12:59,384 [INFO] >>>> using CPU
+2025-03-05 17:12:59,384 [INFO] >>>> using CPU
+2025-03-05 17:12:59,427 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:12:59,514 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:12:59,514 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:00,722 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:00,722 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:00,722 [INFO] >>>> using CPU
+2025-03-05 17:13:00,722 [INFO] >>>> using CPU
+2025-03-05 17:13:00,766 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:00,855 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:00,855 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:02,052 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:02,052 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:02,052 [INFO] >>>> using CPU
+2025-03-05 17:13:02,052 [INFO] >>>> using CPU
+2025-03-05 17:13:02,095 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:02,181 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:02,181 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:03,371 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:03,371 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:03,371 [INFO] >>>> using CPU
+2025-03-05 17:13:03,371 [INFO] >>>> using CPU
+2025-03-05 17:13:03,414 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:03,501 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:03,501 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:04,663 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:04,663 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:04,663 [INFO] >>>> using CPU
+2025-03-05 17:13:04,663 [INFO] >>>> using CPU
+2025-03-05 17:13:04,706 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:04,947 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:04,947 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:06,094 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:06,094 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:06,094 [INFO] >>>> using CPU
+2025-03-05 17:13:06,094 [INFO] >>>> using CPU
+2025-03-05 17:13:06,138 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:06,227 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:06,227 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:07,389 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:07,390 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:07,390 [INFO] >>>> using CPU
+2025-03-05 17:13:07,390 [INFO] >>>> using CPU
+2025-03-05 17:13:07,433 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:07,522 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:07,522 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:08,680 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:08,680 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:08,681 [INFO] >>>> using CPU
+2025-03-05 17:13:08,681 [INFO] >>>> using CPU
+2025-03-05 17:13:08,724 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:08,813 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:08,813 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:09,975 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:09,975 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:09,975 [INFO] >>>> using CPU
+2025-03-05 17:13:09,975 [INFO] >>>> using CPU
+2025-03-05 17:13:10,018 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:10,106 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:10,106 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:11,250 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:11,250 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:11,250 [INFO] >>>> using CPU
+2025-03-05 17:13:11,250 [INFO] >>>> using CPU
+2025-03-05 17:13:11,294 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:11,381 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:11,381 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:12,604 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:12,604 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:12,604 [INFO] >>>> using CPU
+2025-03-05 17:13:12,604 [INFO] >>>> using CPU
+2025-03-05 17:13:12,647 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:12,732 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:12,732 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:14,022 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:14,023 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:14,023 [INFO] >>>> using CPU
+2025-03-05 17:13:14,023 [INFO] >>>> using CPU
+2025-03-05 17:13:14,064 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:14,146 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:14,147 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:15,308 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:15,308 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:15,308 [INFO] >>>> using CPU
+2025-03-05 17:13:15,308 [INFO] >>>> using CPU
+2025-03-05 17:13:15,354 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:15,442 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:15,442 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:16,628 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:16,628 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:16,628 [INFO] >>>> using CPU
+2025-03-05 17:13:16,628 [INFO] >>>> using CPU
+2025-03-05 17:13:16,672 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:16,762 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:16,762 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:17,932 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:17,932 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:17,932 [INFO] >>>> using CPU
+2025-03-05 17:13:17,932 [INFO] >>>> using CPU
+2025-03-05 17:13:17,976 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:18,064 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:18,064 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:19,291 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:19,291 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:19,291 [INFO] >>>> using CPU
+2025-03-05 17:13:19,291 [INFO] >>>> using CPU
+2025-03-05 17:13:19,335 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:19,425 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:19,426 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:20,687 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:20,687 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:20,687 [INFO] >>>> using CPU
+2025-03-05 17:13:20,687 [INFO] >>>> using CPU
+2025-03-05 17:13:20,731 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:20,820 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:20,820 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:22,092 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:22,092 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:22,092 [INFO] >>>> using CPU
+2025-03-05 17:13:22,092 [INFO] >>>> using CPU
+2025-03-05 17:13:22,136 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:22,224 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:22,224 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:23,526 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:23,526 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:23,526 [INFO] >>>> using CPU
+2025-03-05 17:13:23,526 [INFO] >>>> using CPU
+2025-03-05 17:13:23,569 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:23,654 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:23,654 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:24,943 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:24,943 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:24,943 [INFO] >>>> using CPU
+2025-03-05 17:13:24,943 [INFO] >>>> using CPU
+2025-03-05 17:13:24,986 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:25,072 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:25,072 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:26,342 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:26,342 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:26,342 [INFO] >>>> using CPU
+2025-03-05 17:13:26,342 [INFO] >>>> using CPU
+2025-03-05 17:13:26,386 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:26,475 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:26,475 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:27,720 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:27,720 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:27,720 [INFO] >>>> using CPU
+2025-03-05 17:13:27,720 [INFO] >>>> using CPU
+2025-03-05 17:13:27,763 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:27,854 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:27,855 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:29,111 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:29,111 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:29,111 [INFO] >>>> using CPU
+2025-03-05 17:13:29,111 [INFO] >>>> using CPU
+2025-03-05 17:13:29,320 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:29,405 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:29,405 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:30,659 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:30,659 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:30,659 [INFO] >>>> using CPU
+2025-03-05 17:13:30,659 [INFO] >>>> using CPU
+2025-03-05 17:13:30,702 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:30,792 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:30,792 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:32,032 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:32,032 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:32,032 [INFO] >>>> using CPU
+2025-03-05 17:13:32,032 [INFO] >>>> using CPU
+2025-03-05 17:13:32,076 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:32,169 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:32,169 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:33,317 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:33,317 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:33,317 [INFO] >>>> using CPU
+2025-03-05 17:13:33,317 [INFO] >>>> using CPU
+2025-03-05 17:13:33,362 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:33,452 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:33,452 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:34,616 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:34,616 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:34,616 [INFO] >>>> using CPU
+2025-03-05 17:13:34,616 [INFO] >>>> using CPU
+2025-03-05 17:13:34,660 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:34,747 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:34,748 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:35,936 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:35,936 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:35,936 [INFO] >>>> using CPU
+2025-03-05 17:13:35,936 [INFO] >>>> using CPU
+2025-03-05 17:13:35,980 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:36,066 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:36,066 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:37,269 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:37,269 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:37,269 [INFO] >>>> using CPU
+2025-03-05 17:13:37,269 [INFO] >>>> using CPU
+2025-03-05 17:13:37,313 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:37,400 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:37,400 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:38,677 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:38,677 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:38,677 [INFO] >>>> using CPU
+2025-03-05 17:13:38,677 [INFO] >>>> using CPU
+2025-03-05 17:13:38,721 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:38,807 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:38,807 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:40,066 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:40,067 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:40,067 [INFO] >>>> using CPU
+2025-03-05 17:13:40,067 [INFO] >>>> using CPU
+2025-03-05 17:13:40,111 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:40,200 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:40,200 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:41,446 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:41,446 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:41,446 [INFO] >>>> using CPU
+2025-03-05 17:13:41,446 [INFO] >>>> using CPU
+2025-03-05 17:13:41,489 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:41,578 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:41,578 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:42,847 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:42,847 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:42,847 [INFO] >>>> using CPU
+2025-03-05 17:13:42,847 [INFO] >>>> using CPU
+2025-03-05 17:13:42,891 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:42,980 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:42,980 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:44,140 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:44,140 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:44,140 [INFO] >>>> using CPU
+2025-03-05 17:13:44,140 [INFO] >>>> using CPU
+2025-03-05 17:13:44,184 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:44,271 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:44,271 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:45,534 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:45,534 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:45,534 [INFO] >>>> using CPU
+2025-03-05 17:13:45,534 [INFO] >>>> using CPU
+2025-03-05 17:13:45,576 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:45,658 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:45,658 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:46,997 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:46,997 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:46,998 [INFO] >>>> using CPU
+2025-03-05 17:13:46,998 [INFO] >>>> using CPU
+2025-03-05 17:13:47,037 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:47,119 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:47,119 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:48,324 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:48,325 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:48,325 [INFO] >>>> using CPU
+2025-03-05 17:13:48,325 [INFO] >>>> using CPU
+2025-03-05 17:13:48,371 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:48,455 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:48,455 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:49,561 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:49,561 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:49,562 [INFO] >>>> using CPU
+2025-03-05 17:13:49,562 [INFO] >>>> using CPU
+2025-03-05 17:13:49,605 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:49,695 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:49,695 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:50,827 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:50,827 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:50,828 [INFO] >>>> using CPU
+2025-03-05 17:13:50,828 [INFO] >>>> using CPU
+2025-03-05 17:13:50,874 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:50,963 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:50,963 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:52,124 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:52,124 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:52,124 [INFO] >>>> using CPU
+2025-03-05 17:13:52,124 [INFO] >>>> using CPU
+2025-03-05 17:13:52,168 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:52,256 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:52,256 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:53,392 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:53,392 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:53,392 [INFO] >>>> using CPU
+2025-03-05 17:13:53,392 [INFO] >>>> using CPU
+2025-03-05 17:13:53,436 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:53,526 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:53,526 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:54,865 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:54,866 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:54,866 [INFO] >>>> using CPU
+2025-03-05 17:13:54,866 [INFO] >>>> using CPU
+2025-03-05 17:13:54,911 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:54,999 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:54,999 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:56,173 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:56,173 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:56,173 [INFO] >>>> using CPU
+2025-03-05 17:13:56,173 [INFO] >>>> using CPU
+2025-03-05 17:13:56,216 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:56,305 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:56,305 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:57,489 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:57,489 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:57,490 [INFO] >>>> using CPU
+2025-03-05 17:13:57,490 [INFO] >>>> using CPU
+2025-03-05 17:13:57,533 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:57,620 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:57,621 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:13:58,793 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:13:58,793 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:13:58,793 [INFO] >>>> using CPU
+2025-03-05 17:13:58,793 [INFO] >>>> using CPU
+2025-03-05 17:13:58,837 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:13:58,925 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:13:58,925 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:00,112 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:00,112 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:00,112 [INFO] >>>> using CPU
+2025-03-05 17:14:00,112 [INFO] >>>> using CPU
+2025-03-05 17:14:00,156 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:00,243 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:00,243 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:01,421 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:01,421 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:01,421 [INFO] >>>> using CPU
+2025-03-05 17:14:01,421 [INFO] >>>> using CPU
+2025-03-05 17:14:01,465 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:01,551 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:01,552 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:02,722 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:02,722 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:02,722 [INFO] >>>> using CPU
+2025-03-05 17:14:02,722 [INFO] >>>> using CPU
+2025-03-05 17:14:02,766 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:02,857 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:02,857 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:04,008 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:04,008 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:04,009 [INFO] >>>> using CPU
+2025-03-05 17:14:04,009 [INFO] >>>> using CPU
+2025-03-05 17:14:04,052 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:04,141 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:04,141 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:05,339 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:05,339 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:05,339 [INFO] >>>> using CPU
+2025-03-05 17:14:05,339 [INFO] >>>> using CPU
+2025-03-05 17:14:05,383 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:05,469 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:05,469 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:06,798 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:06,798 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:06,798 [INFO] >>>> using CPU
+2025-03-05 17:14:06,799 [INFO] >>>> using CPU
+2025-03-05 17:14:06,840 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:06,921 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:06,921 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:08,241 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:08,241 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:08,241 [INFO] >>>> using CPU
+2025-03-05 17:14:08,241 [INFO] >>>> using CPU
+2025-03-05 17:14:08,281 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:08,362 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:08,363 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:09,551 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:09,551 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:09,552 [INFO] >>>> using CPU
+2025-03-05 17:14:09,552 [INFO] >>>> using CPU
+2025-03-05 17:14:09,595 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:09,684 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:09,684 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:10,862 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:10,862 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:10,862 [INFO] >>>> using CPU
+2025-03-05 17:14:10,862 [INFO] >>>> using CPU
+2025-03-05 17:14:10,906 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:10,993 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:10,994 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:12,180 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:12,180 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:12,180 [INFO] >>>> using CPU
+2025-03-05 17:14:12,180 [INFO] >>>> using CPU
+2025-03-05 17:14:12,224 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:12,311 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:12,311 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:13,481 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:13,481 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:13,481 [INFO] >>>> using CPU
+2025-03-05 17:14:13,481 [INFO] >>>> using CPU
+2025-03-05 17:14:13,525 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:13,613 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:13,613 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:14,816 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:14,816 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:14,816 [INFO] >>>> using CPU
+2025-03-05 17:14:14,816 [INFO] >>>> using CPU
+2025-03-05 17:14:14,860 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:14,949 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:14,949 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:16,217 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:16,217 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:16,217 [INFO] >>>> using CPU
+2025-03-05 17:14:16,217 [INFO] >>>> using CPU
+2025-03-05 17:14:16,261 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:16,350 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:16,350 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:17,644 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:17,644 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:17,644 [INFO] >>>> using CPU
+2025-03-05 17:14:17,644 [INFO] >>>> using CPU
+2025-03-05 17:14:17,689 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:17,776 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:17,776 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:19,085 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:19,085 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:19,085 [INFO] >>>> using CPU
+2025-03-05 17:14:19,085 [INFO] >>>> using CPU
+2025-03-05 17:14:19,128 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:19,214 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:19,214 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:20,667 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:20,667 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:20,667 [INFO] >>>> using CPU
+2025-03-05 17:14:20,667 [INFO] >>>> using CPU
+2025-03-05 17:14:20,711 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:20,800 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:20,800 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:22,094 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:22,094 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:22,095 [INFO] >>>> using CPU
+2025-03-05 17:14:22,095 [INFO] >>>> using CPU
+2025-03-05 17:14:22,139 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:22,224 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:22,224 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:23,522 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:23,522 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:23,522 [INFO] >>>> using CPU
+2025-03-05 17:14:23,522 [INFO] >>>> using CPU
+2025-03-05 17:14:23,566 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:23,652 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:23,652 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:24,928 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:24,928 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:24,928 [INFO] >>>> using CPU
+2025-03-05 17:14:24,928 [INFO] >>>> using CPU
+2025-03-05 17:14:24,972 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:25,060 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:25,060 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:26,213 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:26,213 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:26,213 [INFO] >>>> using CPU
+2025-03-05 17:14:26,213 [INFO] >>>> using CPU
+2025-03-05 17:14:26,256 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:26,344 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:26,344 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:27,580 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:27,580 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:27,580 [INFO] >>>> using CPU
+2025-03-05 17:14:27,580 [INFO] >>>> using CPU
+2025-03-05 17:14:27,624 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:27,710 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:27,710 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:28,998 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:28,998 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:28,999 [INFO] >>>> using CPU
+2025-03-05 17:14:28,999 [INFO] >>>> using CPU
+2025-03-05 17:14:29,042 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:29,128 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:29,128 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:30,426 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:30,426 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:30,426 [INFO] >>>> using CPU
+2025-03-05 17:14:30,426 [INFO] >>>> using CPU
+2025-03-05 17:14:30,469 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:30,555 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:30,555 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:31,834 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:31,834 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:31,834 [INFO] >>>> using CPU
+2025-03-05 17:14:31,834 [INFO] >>>> using CPU
+2025-03-05 17:14:31,878 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:31,966 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:31,966 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:33,238 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:33,238 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:33,238 [INFO] >>>> using CPU
+2025-03-05 17:14:33,238 [INFO] >>>> using CPU
+2025-03-05 17:14:33,281 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:33,370 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:33,370 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:34,624 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:34,624 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:34,624 [INFO] >>>> using CPU
+2025-03-05 17:14:34,624 [INFO] >>>> using CPU
+2025-03-05 17:14:34,667 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:34,756 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:34,756 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:36,021 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:36,021 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:36,021 [INFO] >>>> using CPU
+2025-03-05 17:14:36,021 [INFO] >>>> using CPU
+2025-03-05 17:14:36,064 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:36,151 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:36,151 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:37,409 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:37,409 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:37,409 [INFO] >>>> using CPU
+2025-03-05 17:14:37,409 [INFO] >>>> using CPU
+2025-03-05 17:14:37,452 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:37,539 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:37,539 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:38,759 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:38,759 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:38,759 [INFO] >>>> using CPU
+2025-03-05 17:14:38,759 [INFO] >>>> using CPU
+2025-03-05 17:14:38,802 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:38,892 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:38,892 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:40,153 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:40,153 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:40,153 [INFO] >>>> using CPU
+2025-03-05 17:14:40,153 [INFO] >>>> using CPU
+2025-03-05 17:14:40,197 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:40,284 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:40,284 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:41,520 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:41,520 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:41,520 [INFO] >>>> using CPU
+2025-03-05 17:14:41,520 [INFO] >>>> using CPU
+2025-03-05 17:14:41,563 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:41,652 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:41,652 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:42,864 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:42,864 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:42,864 [INFO] >>>> using CPU
+2025-03-05 17:14:42,864 [INFO] >>>> using CPU
+2025-03-05 17:14:42,907 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:42,997 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:42,997 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:44,212 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:44,212 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:44,212 [INFO] >>>> using CPU
+2025-03-05 17:14:44,212 [INFO] >>>> using CPU
+2025-03-05 17:14:44,255 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:44,345 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:44,345 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:45,554 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:45,554 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:45,554 [INFO] >>>> using CPU
+2025-03-05 17:14:45,554 [INFO] >>>> using CPU
+2025-03-05 17:14:45,597 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:45,684 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:45,684 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:46,870 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:46,871 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:46,871 [INFO] >>>> using CPU
+2025-03-05 17:14:46,871 [INFO] >>>> using CPU
+2025-03-05 17:14:46,914 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:46,999 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:46,999 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:48,349 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:48,349 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:48,350 [INFO] >>>> using CPU
+2025-03-05 17:14:48,350 [INFO] >>>> using CPU
+2025-03-05 17:14:48,393 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:48,480 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:48,480 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:49,661 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:49,661 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:49,661 [INFO] >>>> using CPU
+2025-03-05 17:14:49,662 [INFO] >>>> using CPU
+2025-03-05 17:14:49,705 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:49,791 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:49,791 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:50,959 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:50,959 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:50,959 [INFO] >>>> using CPU
+2025-03-05 17:14:50,959 [INFO] >>>> using CPU
+2025-03-05 17:14:51,002 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:51,089 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:51,089 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:52,283 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:52,283 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:52,283 [INFO] >>>> using CPU
+2025-03-05 17:14:52,283 [INFO] >>>> using CPU
+2025-03-05 17:14:52,326 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:52,411 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:52,411 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:53,600 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:53,600 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:53,600 [INFO] >>>> using CPU
+2025-03-05 17:14:53,600 [INFO] >>>> using CPU
+2025-03-05 17:14:53,643 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:53,730 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:53,730 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:54,918 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:54,918 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:54,919 [INFO] >>>> using CPU
+2025-03-05 17:14:54,919 [INFO] >>>> using CPU
+2025-03-05 17:14:54,962 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:55,051 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:55,051 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:56,206 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:56,206 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:56,206 [INFO] >>>> using CPU
+2025-03-05 17:14:56,206 [INFO] >>>> using CPU
+2025-03-05 17:14:56,250 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:56,341 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:56,341 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:57,527 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:57,527 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:57,527 [INFO] >>>> using CPU
+2025-03-05 17:14:57,527 [INFO] >>>> using CPU
+2025-03-05 17:14:57,571 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:57,656 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:57,657 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:14:58,811 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:14:58,811 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:14:58,811 [INFO] >>>> using CPU
+2025-03-05 17:14:58,811 [INFO] >>>> using CPU
+2025-03-05 17:14:58,856 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:14:58,945 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:14:58,945 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:15:00,056 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:15:00,056 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:15:00,056 [INFO] >>>> using CPU
+2025-03-05 17:15:00,056 [INFO] >>>> using CPU
+2025-03-05 17:15:00,100 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:15:00,190 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:15:00,190 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:15:01,334 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:15:01,334 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:15:01,334 [INFO] >>>> using CPU
+2025-03-05 17:15:01,334 [INFO] >>>> using CPU
+2025-03-05 17:15:01,377 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:15:01,466 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:15:01,466 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:15:02,624 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:15:02,624 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:15:02,624 [INFO] >>>> using CPU
+2025-03-05 17:15:02,624 [INFO] >>>> using CPU
+2025-03-05 17:15:02,667 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:15:02,756 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:15:02,756 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:15:03,926 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:15:03,926 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:15:03,926 [INFO] >>>> using CPU
+2025-03-05 17:15:03,926 [INFO] >>>> using CPU
+2025-03-05 17:15:03,970 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:15:04,060 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:15:04,060 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:15:05,192 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:15:05,192 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:15:05,192 [INFO] >>>> using CPU
+2025-03-05 17:15:05,192 [INFO] >>>> using CPU
+2025-03-05 17:15:05,236 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:15:05,324 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:15:05,324 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:15:06,469 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:15:06,469 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:15:06,469 [INFO] >>>> using CPU
+2025-03-05 17:15:06,469 [INFO] >>>> using CPU
+2025-03-05 17:15:06,512 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:15:06,600 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:15:06,600 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:15:07,777 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:15:07,777 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:15:07,777 [INFO] >>>> using CPU
+2025-03-05 17:15:07,777 [INFO] >>>> using CPU
+2025-03-05 17:15:07,820 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:15:07,909 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:15:07,909 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:15:09,102 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:15:09,103 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:15:09,103 [INFO] >>>> using CPU
+2025-03-05 17:15:09,103 [INFO] >>>> using CPU
+2025-03-05 17:15:09,146 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:15:09,233 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:15:09,234 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:15:10,410 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:15:10,410 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:15:10,410 [INFO] >>>> using CPU
+2025-03-05 17:15:10,410 [INFO] >>>> using CPU
+2025-03-05 17:15:10,454 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:15:10,542 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:15:10,542 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:15:11,687 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:15:11,687 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:15:11,688 [INFO] >>>> using CPU
+2025-03-05 17:15:11,688 [INFO] >>>> using CPU
+2025-03-05 17:15:11,732 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:15:11,820 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:15:11,820 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:15:12,998 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:15:12,998 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:15:12,998 [INFO] >>>> using CPU
+2025-03-05 17:15:12,998 [INFO] >>>> using CPU
+2025-03-05 17:15:13,042 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:15:13,128 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:15:13,128 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:15:14,288 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:15:14,289 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:15:14,289 [INFO] >>>> using CPU
+2025-03-05 17:15:14,289 [INFO] >>>> using CPU
+2025-03-05 17:15:14,524 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:15:14,607 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:15:14,607 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:15:15,774 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:15:15,774 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:15:15,774 [INFO] >>>> using CPU
+2025-03-05 17:15:15,774 [INFO] >>>> using CPU
+2025-03-05 17:15:15,818 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:15:15,907 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:15:15,907 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:15:17,072 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:15:17,072 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:15:17,072 [INFO] >>>> using CPU
+2025-03-05 17:15:17,072 [INFO] >>>> using CPU
+2025-03-05 17:15:17,116 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:15:17,204 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:15:17,204 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
+2025-03-05 17:15:18,365 [INFO] WRITING LOG OUTPUT TO /home/dpatravali/.cellpose/run.log
+2025-03-05 17:15:18,365 [INFO] 
+cellpose version: 	3.1.1.1 
+platform:       	linux 
+python version: 	3.10.16 
+torch version:  	2.6.0+cu124
+2025-03-05 17:15:18,365 [INFO] >>>> using CPU
+2025-03-05 17:15:18,366 [INFO] >>>> using CPU
+2025-03-05 17:15:18,409 [INFO] >>>> loading model /mnt/sata4/cellpose_training/output-XETG00195__0041388__TMA00150__20241213__232337/models/dhruv_testing
+2025-03-05 17:15:18,497 [INFO] >>>> model diam_mean =  30.000 (ROIs rescaled to this size during training)
+2025-03-05 17:15:18,497 [INFO] >>>> model diam_labels =  22.483 (mean diameter of training ROIs)
